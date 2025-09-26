@@ -8,3 +8,7 @@ form {
     border: 1px solid #cccccc;
     border-radius: 1em;
 }
+
+p + p {
+    margin-top: 1em;
+}
